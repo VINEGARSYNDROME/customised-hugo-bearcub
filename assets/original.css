@@ -23,7 +23,7 @@ b {
 }
 
 a {
-  color: #8cc2dd;
+  color: #b5b5b5;
 }
 
 .title {
@@ -131,7 +131,7 @@ ul.blog-posts li span {
 }
 
 ul.blog-posts li a:visited {
-  color: #8b6fcb;
+  color: #9e9e9e;
 }
 
 a.blog-tags {
