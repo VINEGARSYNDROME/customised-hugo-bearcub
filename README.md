@@ -26,7 +26,7 @@ git submodule add https://github.com/clente/hugo-bearcub themes/hugo-bearcub
 To finish off, append a line to the site configuration file:
 
 ```sh
-echo 'theme = "hugo-bearcub"' >> hugo.toml
+echo 'theme = "custom-hugo-bearcub"' >> hugo.toml
 ```
 
 ## Features
